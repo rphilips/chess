@@ -11,11 +11,12 @@ pre = "<b>II. </b>"
 
 Welkom!
 
-In deze tweede lessenreeks voor volwassenen gaan we het schaakspel benaderen
-vanuit drie gezichtspunten:
+In deze tweede lessenreeks voor volwassenen benaderen we het schaakspel vanuit drie gezichtspunten:
 
 - *Positiespel*: het optimaal plaatsen van pionnen en stukken
-- *Strategie*: het bouwen van een lange termijn plannen
+- *Strategie*: het bouwen van een lange termijn plan
 - *Taktiek*: de stukken in actie
 
 Om deze lessen te kunnen volgen, is een goede kennis van het schaakreglement noodzakelijk.
+
+
