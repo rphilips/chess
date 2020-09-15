@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "nl"
+title = "Vrijschaker Landegem: Opleidingen"
+
+theme = "hugo-theme-learn"
+defaultContentLanguage = "nl"
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
