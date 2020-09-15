@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>baseurl: https://rphilips.github.io/chess/series2/</loc>
+    <loc>https://rphilips.github.io/chess/series2/</loc>
     <lastmod>2020-09-15T14:29:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>baseurl: https://rphilips.github.io/chess/series1/</loc>
+    <loc>https://rphilips.github.io/chess/series1/</loc>
     <lastmod>2020-09-15T14:29:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>baseurl: https://rphilips.github.io/chess/</loc>
+    <loc>https://rphilips.github.io/chess/</loc>
     <lastmod>2020-09-15T14:29:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>baseurl: https://rphilips.github.io/chess/categories/</loc>
+    <loc>https://rphilips.github.io/chess/categories/</loc>
   </url>
   
   <url>
-    <loc>baseurl: https://rphilips.github.io/chess/tags/</loc>
+    <loc>https://rphilips.github.io/chess/tags/</loc>
   </url>
   
 </urlset>
