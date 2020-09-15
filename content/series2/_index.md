@@ -1,5 +1,5 @@
 +++
-title = "Series2"
+title = "Opleiding volwassenen II"
 date = 2020-09-15T14:29:29+02:00
 weight = 5
 chapter = true
@@ -7,7 +7,7 @@ pre = "<b>II. </b>"
 +++
 
 
-# Opleiding volwassenen: Deel II
+# Opleiding volwassenen II
 
 Welkom!
 
