@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "baseURL: https://rphilips.github.io/chess/"
 languageCode = "nl"
 title = "Vrijschaker Landegem: Opleidingen"
 publishDir = "docs"
