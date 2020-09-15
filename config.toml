@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "nl"
 title = "Vrijschaker Landegem: Opleidingen"
+publishDir = "docs"
 
 theme = "hugo-theme-learn"
 defaultContentLanguage = "nl"
