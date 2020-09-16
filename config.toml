@@ -9,3 +9,6 @@ defaultContentLanguage = "nl"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
+
+[markup.goldmark.renderer]
+unsafe= true
