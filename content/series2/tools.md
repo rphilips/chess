@@ -23,10 +23,30 @@ FEN: `8/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47`
 
 Deze FEN staat voor de volgende positie:
 
-`FEN 8/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47`
+<div class="board" fen="/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47"></div>
 
 
-<div id="board"></div>
-        <script>
-            PGNV.pgnView('board',{ pgn: '1. e4 e5 2. Nf3 Nc6 3. Bb5', pieceStyle: 'merida' });
-        </script>
+
+## PGN
+
+[PGN](https://nl.wikipedia.org/wiki/Portable_Game_Notation) is een formaat om partij annotaties te bewaren. Het is heel goed leesbaar maar toch is het eerder geschikt om door machines te worden bekeken.
+
+Dit [bestand (downloaden)](/chess/pgn/parel.pgn) bevat een dergelijke partijbeschrijving.
+
+Daaronder staat dan een *PGN viewer* die ditzelfde bestand mooi visualiseert in deze webpagina!
+
+<div class="pgn" file="parel.pgn"></div>
+
+
+
+## Arena
+
+Er bestaat een heleboel software voor schakers. Voor minder dan 50 EUR kan je op [chessbase.com](https://en.chessbase.com/) een state-of-the-art schaakprogramma kopen. Ook voor mobiele platformen bestaat er heel wat lekkers.
+
+Ik prijs echter een gratis software aan: [Arena](http://www.playwitharena.de/). Deze software is uitstekend geschikt om:
+
+- Partijen te bekijken (je moet ze dan wel in *PGN* downloaden van bijvoorbeeld tornooiverslagen)
+- Stellingen te analyseren (je kan een stelling specificeren door middel van een *FEN* - of je kan ze natuurlijk ook opzetten!)
+- Partijen te spelen tegen de sterkste schaakprogramma's
+
+Arena heeft ook het voordeel dat het programma beschikbaar is voor zowel Windows, Mac als Linux.

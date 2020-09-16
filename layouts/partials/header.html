@@ -34,6 +34,36 @@
 
 
     <script src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script>
+        var counter = 0;
+        showBoard = function () {
+            var fen = $(this).attr("fen");
+            counter++;
+            var id = "board" + counter;
+
+            $(this).attr("id", id);
+            PGNV.pgnBoard(id, { 'position': fen });
+        };
+
+        showPGN = function () {
+            var fen = $(this).attr("file");
+            counter++;
+            var id = "pgn" + counter;
+            $(this).attr("id", id);
+            var file = $(this).attr("file");
+            var url = "/chess/pgn/" + file;
+            $.get(url, function (data) {
+                console.log(data);
+                PGNV.pgnView(id, { 'pgn': data, 'pieceStyle': 'merida' });
+            });
+        };
+
+
+        $(document).ready(function () {
+            $(".board").each(showBoard);
+            $(".pgn").each(showPGN);
+        });
+    </script>
 
     <style>
         :root #header+#content>#left>#rlblock_left {
