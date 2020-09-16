@@ -23,7 +23,7 @@ FEN: `8/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47`
 
 Deze FEN staat voor de volgende positie:
 
-![`8/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47`](/chess/images/ab20ea7b89eb7040b1c61bfac97581952baa6e0d6cfa809e6a351925.svg)
+`FEN 8/8/4kpp1/3p1b2/p6P/2B5/6P1/6K1 b - - 0 47`
 
 
 <div id="board"></div>
