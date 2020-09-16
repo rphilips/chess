@@ -11,5 +11,16 @@
 	<atom:link href="https://rphilips.github.io/chess/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Instrumenten</title>
+      <link>https://rphilips.github.io/chess/series2/tools/</link>
+      <pubDate>Tue, 15 Sep 2020 19:02:27 +0200</pubDate>
+      
+      <guid>https://rphilips.github.io/chess/series2/tools/</guid>
+      <description>Leren schaken gaat beter als we een computer bij de hand hebben:
+ De stukken staan sneller opgesteld Je kan zetten terugnemen Je kan stellingen analyseren met behulp van de computer.  Toch een waarschuwing! Vergeet zelf niet te denken &amp;hellip;
+FEN Al in de 19e eeuw werd de Forsyth-Edwards Notation uitgevonden. Het is een handige - zij het wat cryptische manier - om met 1 karakterrij een schaakpositie vast te leggen.</description>
+    </item>
+    
   </channel>
 </rss>
