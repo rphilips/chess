@@ -3,37 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rphilips.github.io/chess/series2/</loc>
-    <lastmod>2020-09-15T14:29:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rphilips.github.io/chess/series1/</loc>
-    <lastmod>2020-09-15T14:29:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rphilips.github.io/chess/</loc>
     <lastmod>2020-09-15T14:29:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rphilips.github.io/chess/series2/mcomplex/</loc>
-    <lastmod>2020-09-17T10:39:52+02:00</lastmod>
+    <loc>https://rphilips.github.io/chess/series1/</loc>
+    <lastmod>2019-09-01T14:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rphilips.github.io/chess/series2/</loc>
+    <lastmod>2018-09-01T14:29:29+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rphilips.github.io/chess/series2/notation/</loc>
-    <lastmod>2020-09-17T09:57:33+02:00</lastmod>
+    <lastmod>1999-01-01T09:57:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rphilips.github.io/chess/series2/tools/</loc>
-    <lastmod>2020-09-15T19:02:27+02:00</lastmod>
+    <lastmod>1998-01-01T19:02:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://rphilips.github.io/chess/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rphilips.github.io/chess/series2/mcomplex/</loc>
   </url>
   
   <url>

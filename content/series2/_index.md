@@ -1,6 +1,6 @@
 +++
 title = "Denksport"
-date = 2020-09-15T14:29:29+02:00
+date = 2018-09-01T14:29:29+02:00
 weight = 5
 chapter = true
 pre = "<b>II. </b>"

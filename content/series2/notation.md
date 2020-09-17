@@ -1,6 +1,6 @@
 ---
 title: "Notatie"
-date: 2020-09-17T09:57:33+02:00
+date: 1999-01-01T09:57:33+02:00
 ---
 Het correct noteren van het verloop van een schaakpartij is een belangrijk onderdeel van het spel. 
 In essentie is de notatie het contract tussen beide spelers: in geval van dispuut kan de scheidsrechter - op basis van dit papiertje - een uitspraak doen.
@@ -19,7 +19,7 @@ Voorbeeld (vetrekkende van de beginpositie): `Pg1-f3`
 Een speler moet zowel zijn eigen zetten als deze van de tegenstander noteren.
 
 
-Eeens je vertrouwd bent met de lange notatie, ga je vanzelf vlug overschakelen naar de korte notatie: je schrijft nog enkel het hoogstnodige op. Zo *weet* je uit het verloop van de partij welke zetten kunnen. Zo is het - uit de beginstelling - voldoende `Pf3` te noteren. Er is immers slechts 1 mogelijkheid.
+Eens je vertrouwd bent met de lange notatie, ga je vanzelf vlug overschakelen naar de korte notatie: je schrijft nog enkel het hoogstnodige op. Zo *weet* je uit het verloop van de partij welke zetten kunnen. Zo is het - uit de beginstelling - voldoende `Pf3` te noteren. Er is immers slechts 1 mogelijkheid.
 
 Sommige scorebladen zijn verzamelobjecten geworden: hieronder vind je het scorebord van een partij tussen [Boris Spassky](https://nl.wikipedia.org/wiki/Boris_Spasski) en [Robert Fischer ](https://nl.wikipedia.org/wiki/Bobby_Fischer)
 

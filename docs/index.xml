@@ -12,22 +12,9 @@
     
     
     <item>
-      <title>Complexiteit</title>
-      <link>https://rphilips.github.io/chess/series2/mcomplex/</link>
-      <pubDate>Thu, 17 Sep 2020 10:39:52 +0200</pubDate>
-      
-      <guid>https://rphilips.github.io/chess/series2/mcomplex/</guid>
-      <description>Tactiek! Positiespel! Strategie!
-Kom, kom &amp;hellip; Laten we gewoon een potje schaken!
-Met deze houding is natuurlijk niets mis. Er is ook niets mis met enkel Sudoku&amp;rsquo;s op &amp;lsquo;Beginner&amp;rsquo;s Level&amp;rsquo; op te lossen.
-Wij - deelnemers aan de tweede reeks - denken daar toch wat anders overs: we willen het fijne weten achter die zetten. We willen meer genieten van de partijen van de grootmeesters en wereldkampioenen.
-We willen meer diepgang geven aan onze partijen.</description>
-    </item>
-    
-    <item>
       <title>Notatie</title>
       <link>https://rphilips.github.io/chess/series2/notation/</link>
-      <pubDate>Thu, 17 Sep 2020 09:57:33 +0200</pubDate>
+      <pubDate>Fri, 01 Jan 1999 09:57:33 +0200</pubDate>
       
       <guid>https://rphilips.github.io/chess/series2/notation/</guid>
       <description>Het correct noteren van het verloop van een schaakpartij is een belangrijk onderdeel van het spel. In essentie is de notatie het contract tussen beide spelers: in geval van dispuut kan de scheidsrechter - op basis van dit papiertje - een uitspraak doen.
@@ -37,12 +24,25 @@ Het scoreblad is echter meer: door dit zorgvuldig bij te houden kan de partij la
     <item>
       <title>Instrumenten</title>
       <link>https://rphilips.github.io/chess/series2/tools/</link>
-      <pubDate>Tue, 15 Sep 2020 19:02:27 +0200</pubDate>
+      <pubDate>Thu, 01 Jan 1998 19:02:27 +0200</pubDate>
       
       <guid>https://rphilips.github.io/chess/series2/tools/</guid>
       <description>Leren schaken gaat beter als we een computer bij de hand hebben:
  De stukken staan sneller opgesteld Je kan zetten terugnemen Je kan stellingen analyseren met behulp van de computer.  Toch een waarschuwing! Vergeet zelf niet te denken &amp;hellip;
 FEN Al in de 19e eeuw werd de Forsyth-Edwards Notation uitgevonden. Het is een handige - zij het wat cryptische manier - om met 1 karakterrij een schaakpositie vast te leggen.</description>
+    </item>
+    
+    <item>
+      <title>Complexiteit</title>
+      <link>https://rphilips.github.io/chess/series2/mcomplex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rphilips.github.io/chess/series2/mcomplex/</guid>
+      <description>Tactiek! Positiespel! Strategie!
+Kom, kom &amp;hellip; Laten we gewoon een potje schaken!
+Met deze houding is natuurlijk niets mis. Er is ook niets mis met enkel Sudoku&amp;rsquo;s op &amp;lsquo;Beginner&amp;rsquo;s Level&amp;rsquo; op te lossen.
+Wij - deelnemers aan de tweede reeks - denken daar toch wat anders overs: we willen het fijne weten achter die zetten. We willen meer genieten van de partijen van de grootmeesters en wereldkampioenen.
+We willen meer diepgang geven aan onze partijen.</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: "Instrumenten"
-date: 2020-09-15T19:02:27+02:00
+date: 1998-01-01T19:02:27+02:00
 ---
 Leren schaken gaat beter als we een computer bij de hand hebben:
 

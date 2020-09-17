@@ -1,6 +1,6 @@
 ---
 title: "Complexiteit"
-date: 2020-09-17T10:39:52+02:00
+date: 1997-0-01T10:39:52+02:00
 ---
 
 Tactiek! Positiespel! Strategie!
